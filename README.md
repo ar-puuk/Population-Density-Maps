@@ -1,5 +1,5 @@
 # Population Density Maps, 2022
-Using **[Kontur](https://www.kontur.io/)**'s Population Estimates and **[Rayshader](https://www.rayshader.com/)** package in R
+Using **[Kontur](https://www.kontur.io/)**'s 2022 Population Estimates and **[Rayshader](https://www.rayshader.com/)** package in R
 
 ## Credits
 
@@ -13,4 +13,4 @@ All the following maps have been inspired by the incredible `rayshader` portrait
 ## **[Nepal](https://github.com/ar-puuk/Population-Density-Maps/tree/main/Nepal)** (Created: 1-2-2023)
 
  ![Nepal](https://github.com/ar-puuk/Population-Density-Maps/blob/main/Nepal/Plots/final_plot_edited.png)
-###### Data Source: Kontur's [Nepal: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-nepal).
+###### Data Source: Kontur's [Nepal: Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-nepal). (Released: 6-30-2022)
