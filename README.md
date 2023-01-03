@@ -1,11 +1,11 @@
-# Population Density Map, 2022
+# Population Density Maps, 2022
 Using **[Kontur](https://www.kontur.io/)**'s Population Estimates and **[Rayshader](https://www.rayshader.com/)** package in R
 
 ## Credits
 
 This is a respository of the population density maps created using the `rayshader` R package by **[Tyler Morgan-Wall](https://twitter.com/tylermorganwall)** and the population density estimates from **[Kontur](https://data.humdata.org/dataset/kontur-population-dataset)**.
 
-All the following maps have been inspired by the incredible `rayshader` portrait works of **[@researchremora](https://twitter.com/researchremora)** and **[Spencer Schien](https://github.com/Pecners)**'s fantastic **[YouTube Tutorial](https://www.youtube.com/watch?v=zgFXVhmKNbU&t)**.
+All the following maps have been inspired by the incredible `rayshader` portrait works of **[@researchremora](https://twitter.com/researchremora)** and **[Spencer Schien](https://github.com/Pecners)**'s awesome **[YouTube Tutorial](https://www.youtube.com/watch?v=zgFXVhmKNbU&t)**.
 
 
 ## Gallery
