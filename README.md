@@ -3,7 +3,7 @@ Using **[Kontur](https://www.kontur.io/)**'s 2022 Population Estimates and **[Ra
 
 ## Credits
 
-This is a respository of the population density maps created using the `rayshader` R package by **[Tyler Morgan-Wall](https://twitter.com/tylermorganwall)** and the population density estimates from **[Kontur](https://data.humdata.org/dataset/kontur-population-dataset)**.
+This is a respository of the population density maps created using the `rayshader` R package by **[Tyler Morgan-Wall](https://twitter.com/tylermorganwall)** and the **[population density estimates](https://data.humdata.org/organization/kontur)** from Kontur.
 
 All the following maps have been inspired by the incredible `rayshader` portrait works of **[@researchremora](https://twitter.com/researchremora)** and **[Spencer Schien](https://github.com/Pecners)**'s awesome **[YouTube Tutorial](https://www.youtube.com/watch?v=zgFXVhmKNbU&t)**.
 
