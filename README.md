@@ -1,5 +1,5 @@
 # Population Density Map, 2022
-Using Kontur Population Estimates and Rayshader package in R
+Using **[Kontur](https://www.kontur.io/)**'s Population Estimates and **[Rayshader](https://www.rayshader.com/)** package in R
 
 ## Credits
 
